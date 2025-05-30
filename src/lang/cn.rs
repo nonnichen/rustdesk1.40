@@ -44,7 +44,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("id_change_tip", "只可以使用字母 a-z, A-Z, 0-9, - (dash), _ (下划线)。首字母必须是 a-z, A-Z。长度在 6 与 16 之间。"),
         ("Website", "网站"),
         ("About", "关于"),
-        ("Slogan_tip", "基于Rustdesk, 🌀Support by Nonni"),
+        ("Slogan_tip", "基于 Rustdesk, 🌀Support by Nonni"),
         ("Privacy Statement", "隐私声明"),
         ("Mute", "静音"),
         ("Build Date", "构建日期"),
